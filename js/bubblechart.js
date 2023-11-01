@@ -24,7 +24,7 @@ window.onload = function(){
         .attr("y", 50) //position from top on the y (vertical) axis
         .style("fill", "#FFFFFF"); //fill color
 
-    var dataArray = [10, 20, 30, 40, 50];
+    // var dataArray = [10, 20, 30, 40, 50];
 
     var cityPop = [
     { 
